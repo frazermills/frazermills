@@ -7,4 +7,4 @@
 - 💬 Ask me about Javascript and python
 - 📫 How to reach me: [here](https://github.com/frazermills/frazermills/issues)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can solve a rubik's cube in under a minute
+- ⚡ Fun fact: I can speak 4 languages (English, French, Spanish, and Japanese), and Can program (competently) in 2
