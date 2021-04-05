@@ -1,4 +1,4 @@
-### Hi, I'm Frazer 👋
+### Hi, I'm Frazer Mills 👋
 
 - 🔭 I’m currently working on a brainfuck compiler, and a recreation of Conway's game of life
 - 🌱 I’m currently learning C++ and Vim
@@ -8,3 +8,5 @@
 - 📫 How to reach me: [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can speak 4 languages (English, French, Spanish, and Japanese), and can program (competently) in 2
+
+![](https://komarev.com/ghpvc/?username=frazermills&style=flat-square)
